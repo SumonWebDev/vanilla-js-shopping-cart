@@ -54,3 +54,8 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+#success{
+	display: none;
+	text-align: center;
+	color: green;
+ }
