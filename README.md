@@ -1,1 +1,1 @@
-# shopping-cart-with-vanilla-js
+# vanilla-js-shopping-cart
